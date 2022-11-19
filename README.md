@@ -1,1 +1,1 @@
-# Gbotemi-Tictactoe
+# Tictactoe
